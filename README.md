@@ -1,4 +1,5 @@
 - 👋 Casual greetings, I’m @AlaTomKing.
+- - 🇩🇪 I am currently in Germanland.
 - 👀 I’m interested in random stuff and HTML.
 - 🌱 I’m currently learning how to conquer the world.
 - 💞️ I’m looking to collaborate on no one.
