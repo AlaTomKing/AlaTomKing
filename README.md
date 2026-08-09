@@ -1,16 +1,11 @@
-- 👋 Casual greetings, I’m @AlaTomKing.
-- 🇩🇪 I am currently in Germany.
-- 👀 I’m interested in random stuff and HTML.
-- 🌱 I’m currently learning how to conquer the world.
-- 💞️ I’m looking to collaborate on no one.
-- 📫 How to reach me? You don't. I don't like you.
-- 🤡 Is this you?
+casual greetings! i am **alatomking**!
 
-(AlaTomKing doesn't mean any harm. It's just a prank, bro.)
+here are some facts about me:
+- i am currently in **germany**
+- i am interested in **random stuff** and **html**
+- i'm currently learning on **conquering the world**
+- i'm looking to collaborate on no one
+- how to reach me? *i don't know*. sorry.
+- the emojis are why i was mean back then. sorry again
 
-Also here is more about me: https://alatomking.github.io
-
-<!---
-AlaTomKing/AlaTomKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+more about me on https://alatomking.github.io
